@@ -1,0 +1,2 @@
+C:/codedti_try/android/app/.cxx/Debug/6t62225a/x86_64/CMakeFiles/edit_cache.dir
+C:/codedti_try/android/app/.cxx/Debug/6t62225a/x86_64/CMakeFiles/rebuild_cache.dir

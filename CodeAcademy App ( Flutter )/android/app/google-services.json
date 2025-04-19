@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377975775770",
+    "project_id": "codeacademy-682d9",
+    "storage_bucket": "codeacademy-682d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377975775770:android:85e13b38b974b267bf67a3",
+        "android_client_info": {
+          "package_name": "Code.Academy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXuxDjXmljigkSxIHV8MtVCoqGEYEp68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
